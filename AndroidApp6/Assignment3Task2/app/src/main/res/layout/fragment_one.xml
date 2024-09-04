@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".FragmentOne">
+
+    <ImageView
+        android:id="@+id/sandwichBanner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sandwiches"
+        android:contentDescription="@string/bannersandwich"/>
+
+    <TextView
+        android:id="@+id/textviewFilling"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/feecd5"
+        android:text="@string/filling"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textColor="@color/_84502b"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/checkBoxHam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:tag="Ham"/>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:src="@drawable/cut_ham_icon"
+            android:contentDescription="@string/hamicon"/>
+
+        <CheckBox
+            android:id="@+id/checkBoxChicken"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="15dp"
+            android:tag="Chicken"/>
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:src="@drawable/chicken_icon"
+            android:contentDescription="@string/chickenicon"/>
+
+        <CheckBox
+            android:id="@+id/checkBoxBeef"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="Beef"/>
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/beef_icon"
+            android:layout_weight="1"
+            android:contentDescription="@string/beeficon"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/checkBoxSalmon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="Salmon"/>
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/salmon_icon"
+            android:contentDescription="@string/salmonicon"/>
+
+        <CheckBox
+            android:id="@+id/checkBoxKebab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="Kebab"/>
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/kebab_icon2"
+            android:layout_weight="1"
+            android:contentDescription="@string/kebabicon"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textviewSide"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/feecd5"
+        android:text="@string/side"
+        android:textAlignment="center"
+        android:textColor="@color/_84502b"
+        android:textStyle="bold"
+        android:textSize="20sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/checkBoxTomato"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="Tomato"/>
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tomato_icon"
+            android:layout_weight="1"
+            android:contentDescription="@string/tomatoicon"/>
+
+        <CheckBox
+            android:id="@+id/checkBoxLettuce"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="Lettuce"/>
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/lettuce_icon"
+            android:layout_weight="1"
+            android:contentDescription="@string/lettuceicon"/>
+
+        <CheckBox
+            android:id="@+id/checkBoxOnion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="Onion"/>
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/onion_icon"
+            android:layout_weight="1"
+            android:contentDescription="@string/onionsicon"/>
+
+        <CheckBox
+            android:id="@+id/checkBoxCheese"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:tag="Cheese"/>
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/cheese_icon"
+            android:layout_weight="1"
+            android:contentDescription="@string/cheeseicon"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textviewSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/feecd5"
+        android:text="@string/size"
+        android:textStyle="bold"
+        android:textColor="@color/_84502b"
+        android:textSize="20sp"
+        android:textAlignment="center"/>
+
+    <RadioGroup
+        android:id="@+id/radioButtonGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radioSize6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:checked="true"
+            android:text="@string/_6_inch"/>
+
+        <RadioButton
+            android:id="@+id/radioSize9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:text="@string/_9_inch"/>
+
+        <RadioButton
+            android:id="@+id/radioSize12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:text="@string/_12_inch"/>
+    </RadioGroup>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:src="@drawable/circle_button_background"
+            android:layout_marginHorizontal="5dp"
+            android:layout_marginBottom="50dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/imageView12"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintHorizontal_chainStyle="packed"
+            app:layout_constraintStart_toStartOf="parent"
+            android:contentDescription="@string/dot1"/>
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:src="@drawable/circle_button_background2"
+            android:layout_marginHorizontal="5dp"
+            android:layout_marginBottom="50dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/imageView11"
+            android:contentDescription="@string/dot2"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

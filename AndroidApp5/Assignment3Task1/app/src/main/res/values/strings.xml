@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Assignment3Task1</string>
+    <string name="heritage">heritage</string>
+    <string name="heritage_apartment">Heritage Apartment</string>
+    <string name="location1">location1</string>
+    <string name="old_town_area">Old Town Area</string>
+    <string name="rateimage">rateImage</string>
+    <string name="_5_stars">5 stars</string>
+    <string name="rm_500">RM 500</string>
+    <string name="backgroundimage">backgroundimage</string>
+    <string name="sizeimage">sizeimage</string>
+    <string name="distanceicon">distanceIcon</string>
+    <string name="room_size_19_meter">Room Size: 19 meter</string>
+    <string name="_2">2</string>
+    <string name="_10km_to_city_center">10km to City Center</string>
+    <string name="facilities">Facilities</string>
+    <string name="u2022_toiletries_u2022_wi_fi_u2022_drinking_water">• Toiletries • Wi-Fi • Drinking Water</string>
+    <string name="select_booking_date">Select Booking Date</string>
+    <string name="check_in_date">Check-In Date</string>
+    <string name="date">12/4/2024</string>
+    <string name="check_out_date">Check-Out Date</string>
+    <string name="select_room_type">Select Room Type</string>
+    <string name="total">Total:</string>
+    <string name="rm_0_0">RM 0.0</string>
+    <string name="book_now">Book Now</string>
+    <string name="orderbackground">orderbackground</string>
+    <string name="clover_apartment">Clover Apartment</string>
+    <string name="your_booking_information">Your Booking Information</string>
+    <string name="room_type">Room Type:</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="Check_out">Check-Out Date:</string>
+    <string name="Check_in">Check-In Date:</string>
+    <string name="east_west_coast">East-West Coast</string>
+    <string name="_2_stars">2 Stars</string>
+    <string name="rm_200">RM 200</string>
+</resources>

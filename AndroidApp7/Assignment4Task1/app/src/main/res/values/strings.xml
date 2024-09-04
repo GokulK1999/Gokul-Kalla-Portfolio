@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment4Task1</string>
+    <string name="social_event">Social Event</string>
+    <string name="professional_event">Professional Event</string>
+    <string name="taylorcover">taylorCover</string>
+    <string name="taylor_swift_the">Taylor Swift- The</string>
+    <string name="eras_tour">Eras Tour</string>
+    <string name="_2_9">2-9</string>
+    <string name="mar">Mar</string>
+    <string name="national_stadium">National Stadium,</string>
+    <string name="singapore">Singapore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_29_mar">29 Mar</string>
+    <string name="national_stadium_singapore">National Stadium, Singapore</string>
+    <string name="taylor_swift_the_eras_tour">Taylor Swift - The Eras Tour</string>
+</resources>

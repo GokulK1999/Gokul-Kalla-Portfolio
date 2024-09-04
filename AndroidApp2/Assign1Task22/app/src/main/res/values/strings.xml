@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Assign1Task2</string>
+    <string name="kenny_hill_woods">Kenny Hill Woods</string>
+    <string name="overcast_cloud">Overcast Cloud</string>
+    <string name="temprature">18\u00b0</string>
+    <string name="clouds">Clouds</string>
+    <string name="_90">90%</string>
+    <string name="visibility">Visibility</string>
+    <string name="_10_5_km">10.5 Km</string>
+    <string name="_1024_hpa">1024 hPa</string>
+    <string name="humidity">Humidity</string>
+    <string name="_80">80%</string>
+    <string name="_12_km_h">12 Km/h</string>
+    <string name="wind">Wind</string>
+    <string name="birmingham">Birmingham</string>
+    <string name="_22_u00b0_partly_cloudy">22° Partly Cloudy</string>
+    <string name="_50">50%</string>
+    <string name="_30">30%</string>
+    <string name="lake_district">Lake District</string>
+    <string name="_2_u00b0_snow_shower">-2° Snow Shower</string>
+    <string name="iconlocation">iconLocation</string>
+    <string name="iconcloud">iconCloud</string>
+    <string name="iconcloud2">iconCloud2</string>
+    <string name="iconeye">iconEye</string>
+    <string name="iconhumid">iconHumid</string>
+    <string name="iconwind">iconWind</string>
+    <string name="iconweather">iconWeather</string>
+    <string name="iconcloud3">iconCloud3</string>
+    <string name="iconwater">iconWater</string>
+    <string name="iconweather2">iconWeather2</string>
+    <string name="iconwater2">iconWater2</string>
+    <string name="iconpressure">iconPressure</string>
+    <string name="iconcloud4">iconCloud4</string>
+
+
+</resources>

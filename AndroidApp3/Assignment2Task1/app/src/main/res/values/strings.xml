@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment2Task1</string>
+    <string name="score_0">Score: 0</string>
+    <string name="diceimg1">Diceimg1</string>
+    <string name="diceimg2">diceimg2</string>
+    <string name="roll">Roll</string>
+    <string name="total_score" />
+</resources>

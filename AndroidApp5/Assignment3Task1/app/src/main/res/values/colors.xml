@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Red">#a91818</color>
+    <color name="_1d229b">#1D229B</color>
+    <color name="Border_color">#59A3D6</color>
+    <color name="Blue">#1953B9</color>
+    <color name="bordertotal_color">#6FC3FF</color>
+    <color name="_0d8576">#0D8576</color>
+</resources>

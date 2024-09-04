@@ -1,0 +1,56 @@
+type:social
+title:Taylor Swift - The Eras Tour
+date:2-9 Mar
+url:https://www.sportshub.com.sg/events/taylor-swift-the-eras-tour
+location:National Stadium, Singapore
+image:taylor_swift.png
+type:professional
+title:International Game Development Conference 2024
+date:24-26 Apr
+location:University of Technology Sarawak, Sibu
+url:https://businesseventssarawak.com/event/international-game-development-conference-igdc-2024/
+image:igdc.png
+type:social
+date:24 Feb
+title:Ed Sheeran: The Mathematics Tour
+location:Bukit Jalil National Stadium, KL
+url:https://edsheerankl2024.my/
+image:ed_sheeran.png
+type:professional
+title:Ransomware Resilience Conference 2024
+date:4-5 Mar
+location:Sheraton Imperial Kuala Lumpur
+url:https://cybersecurityasia.tech/
+image:cyber_security.png
+type:professional
+title:Malaysia Career & Training Fair 2024
+date:30-31 Mar
+location:Mid Valley Megamall, Kuala Lumpur
+url:https://careerfair.asia/about-us/
+image:career_fair.png
+type:social
+title:Rainforest World Music Festival 2024
+date:28-30 Jun
+location:Sarawak Cultural Village
+url:https://kuchingevents.com/index.php/event/rainforest-world-music-festival-2024/
+image:rwmf.png
+type:professional
+date:4-5 Mar
+title:International Conference on Social Work 2024
+location:Merdeka Palace Hotel & Suites, Kuching
+url:https://asar.net.in/event/index.php?id=2235020
+image:icsw.png
+type:social
+title:AnimeXcess 2024
+location:Aeon Mall Kuching
+date:2-3 Mar
+url:https://allevents.in/kuching/animexcess-2024/200026184583006
+image:anime.png
+type:social
+location:Fat Fire,Kuala Lumpur
+date:9 Mar
+title:KL Speed Dating
+url:https://www.eventbrite.com/e/kl-speed-dating-at-fatfire-kl-tickets-846793792027?keep_tld=1
+image:speed_dating.png
+
+
